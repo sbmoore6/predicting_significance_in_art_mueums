@@ -1,1 +1,1 @@
-# predicting_significance_in_art
+# Predicting Signifiance in Art Museums
